@@ -12,7 +12,7 @@
     </nav>
 
         <!--Años Estudiando-->
-        <p><strong>0 Cuatrimestres en </strong><strong>Ingeniería en Sistemas en la UTC (Universidad Tecnologíca de Costa Rica). </strong></p>
+        <p><strong>0 Cuatrimestres en </strong><strong> Ingeniería en Sistemas en la UTC (Universidad Tecnologíca de Costa Rica). </strong></p>
         <p><strong>0 Cuatrimestres</strong> de <strong>8 en total</strong>.</p>
 
     <div class="center-container">
@@ -25,22 +25,22 @@
 
   <ul class="tech-list">
     <li class="tech-item">
-      <img src="/html5.svg" width="48" height="48" alt="HTML5 logo">
+      <img src="/html5.svg" width="48" height="48" alt="HTML5 logo" loading="lazy">
       <span>HTML</span>
     </li>
 
     <li class="tech-item">
-      <img src="/csslogo.svg" width="48" height="48" alt="CSS logo">
+      <img src="/csslogo.svg" width="48" height="48" alt="CSS logo" loading="lazy">
       <span>CSS</span>
     </li>
 
     <li class="tech-item">
-      <img src="/javascript.svg" width="48" height="48" alt="JavaScript logo">
+      <img src="/javascript.svg" width="48" height="48" alt="JavaScript logo" loading="lazy">
       <span>JavaScript</span>
     </li>
 
     <li class="tech-item">
-      <img src="/python.svg" width="48" height="48" alt="Python logo">
+      <img src="/python.svg" width="48" height="48" alt="Python logo" loading="lazy">
       <span>Python</span>
     </li>
   </ul>
@@ -51,7 +51,7 @@
 
   <ul class="tech-list">
     <li class="tech-item">
-      <img src="/svelte.svg" width="48" height="48" alt="Svelte logo">
+      <img src="/svelte.svg" width="48" height="48" alt="Svelte logo" loading="lazy">
       <span>Svelte</span>
     </li>
   </ul>
@@ -60,7 +60,7 @@
 
     <!-- Herramientas -->
  <div class="category">
-  <h2>Frameworks que utilizo:</h2>
+  <h2>Herramientas que utilizo:</h2>
 
   <ul class="tech-list">
     <li class="tech-item">

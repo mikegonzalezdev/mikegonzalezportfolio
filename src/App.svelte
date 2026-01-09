@@ -257,6 +257,13 @@ ul {
   background: rgba(27, 114, 136, 0.08);
   transform: translateY(-1px);
 }
+
+.tech-item {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
 .tech-list {
    list-style: none;
   padding-left: 0;

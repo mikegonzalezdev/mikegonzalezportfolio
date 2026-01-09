@@ -31,22 +31,22 @@
 
   <ul class="tech-list">
     <li class="tech-item">
-      <img src="/html5.svg" width="48" height="48" alt="HTML5 logo" loading="lazy">
+      <img src="/html5.svg" width="40" height="40" alt="HTML5 logo" loading="lazy">
       <span>HTML</span>
     </li>
 
     <li class="tech-item">
-      <img src="/csslogo.svg" width="48" height="48" alt="CSS logo" loading="lazy">
+      <img src="/csslogo.svg" width="40" height="40" alt="CSS logo" loading="lazy">
       <span>CSS</span>
     </li>
 
     <li class="tech-item">
-      <img src="/javascript.svg" width="48" height="48" alt="JavaScript logo" loading="lazy">
+      <img src="/javascript.svg" width="40" height="40" alt="JavaScript logo" loading="lazy">
       <span>JavaScript</span>
     </li>
 
     <li class="tech-item">
-      <img src="/python.svg" width="48" height="48" alt="Python logo" loading="lazy">
+      <img src="/python.svg" width="40" height="40" alt="Python logo" loading="lazy">
       <span>Python</span>
     </li>
   </ul>
@@ -57,7 +57,7 @@
 
   <ul class="tech-list">
     <li class="tech-item">
-      <img src="/svelte.svg" width="48" height="48" alt="Svelte logo" loading="lazy">
+      <img src="/svelte.svg" width="40" height="40" alt="Svelte logo" loading="lazy">
       <span>Svelte</span>
     </li>
   </ul>

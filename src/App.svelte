@@ -12,7 +12,7 @@
     </nav>
 
         <!--Años Estudiando-->
-        <p><strong>0 Cuatrimestres en</strong><strong>Ingeniería en Sistemas en la UTC (Universidad Tecnologíca de Costa Rica). </strong></p>
+        <p><strong>0 Cuatrimestres en </strong><strong>Ingeniería en Sistemas en la UTC (Universidad Tecnologíca de Costa Rica). </strong></p>
         <p><strong>0 Cuatrimestres</strong> de <strong>8 en total</strong>.</p>
 
     <div class="center-container">

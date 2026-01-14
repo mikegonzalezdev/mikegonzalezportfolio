@@ -2,7 +2,7 @@
 </script>
 <main>
   <h1>Portfolio de Mike González</h1>
-    <h2>Ingeniero en Sistemas Computacionales de la Universidad Tecnologíca de Costa Rica</h2>
+    <h2>Ingeniero en Sistemas Computacionales de la Universidad Tecnologíca Costarricense</h2>
 
     <!--Enlaces Externos-->
     <nav>
@@ -14,8 +14,8 @@
         <!--Años Estudiando-->
         <p>
           <strong>
-            0 Cuatrimestres en Ingeniería en Sistemas en la UTC
-            (Universidad Tecnológica de Costa Rica).
+            1 Cuatrimestre en Ingeniería en Sistemas en la UTC
+            (Universidad Tecnológica Costarricense).
             </strong>
           </p>
 
@@ -85,7 +85,7 @@
     <li class="list-item">Desarrollo de Pequeñas Aplicaciones de Software</li>
     <li class="list-item">Inglés Tecnico B2 Certificado</li>
     <li class="list-item">Colaborador creativo y asistente de enseñanza en Escuela Virtual de Inglés Rosalía Brown Young (orientada a niños)</li>
-    <li class="list-item">Tutoría privada de Inglés Técnico/Conversacional  (estudiantes individuales)</li>
+    <li class="list-item">Tutoría privada de Inglés Técnico/Conversacional (estudiantes individuales)</li>
     <li class="list-item">Manejo de Sistemas Linux/MacOS/Windows</li>
     <li class="list-item">Manejo de Herramientas de Ciberseguridad</li>
     <li class="list-item">Manejo de Terminal Unix</li>
@@ -175,7 +175,7 @@ src="/mikeyrandall.webp">
     <footer>
     <small>Copyright © 2025 - Portfolio de Mike González</small>
     </footer>
-    <small><strong>En Construccion,No se Programación y me base en articulos de google y videos de HTML de Midudev,Aun no he empezado a reicbir clases asi que esta pagina va a mejorar progresivamente,gracias por leer y visitar! y por cierto el forms aun no sirve y es aproposito,aun no lo siento listo para desplegarse porque no tengo experiencia y nadie me va a contratar asi.</strong></small>
+    <small><strong>En Construccion,No se Programación y me base en articulos de google y videos de HTML de Midudev, Ya empeze a recibir clases asi que esta pagina va a mejorar progresivamente muchas gracias por leer y visitar! y por cierto el forms aun no esta listo (Es placeholder)</strong></small>
  </main>
 
 <style>

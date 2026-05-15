@@ -1,19 +1,18 @@
 <script>
   const certifications = [
     {
-      name: "Taller Desarrollo de Aplicaciones en Python",
+      name: "Aprovechamiento Diseño de Aplicaciones pequeñas (Python)",
       year: "2025",
-      url: "https://drive.google.com/your-link-python"
+      url: "https://drive.google.com/file/d/18f-GJ1AMoVJhyfSsEwv6d_oWuRC4X3JC/view?usp=sharing"
     },
     {
-      name: "Servicio al Cliente — INA / Empleo+",
+      name: "Servicio al Cliente — INA / Empleo+ (PENDIENTE DE ENTREGAR)",
       year: "2026",
-      url: "https://drive.google.com/your-link-ina"
     },
     {
       name: "Computación — Academia Siquirres (140 hrs)",
       year: "2019",
-      url: "https://drive.google.com/your-link-computacion"
+      url: "https://drive.google.com/file/d/1xqHVNkR9xCdIKzqcUEI_PzJq-16rER62/view?usp=share_link"
     }
   ]
 </script>
